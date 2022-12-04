@@ -1,0 +1,6 @@
+public class Rhombus extends Shape{
+    @Override
+    public void getName() {
+        System.out.println("Name shape: Rhombus!");
+    }
+}
